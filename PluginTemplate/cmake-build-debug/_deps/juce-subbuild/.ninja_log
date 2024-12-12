@@ -1,0 +1,21 @@
+# ninja log v6
+2	107	7556681163534259	juce-populate-prefix/src/juce-populate-stamp/juce-populate-mkdir	9308c91e0f775ea
+2	107	7556681163534259	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-mkdir	9308c91e0f775ea
+107	20848	7556681370945651	juce-populate-prefix/src/juce-populate-stamp/juce-populate-download	4519622b18866721
+107	20848	7556681370945651	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-download	4519622b18866721
+20848	21066	7556681371015749	juce-populate-prefix/src/juce-populate-stamp/juce-populate-update	a099b5ec8e817e2d
+20848	21066	7556681371015749	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-update	a099b5ec8e817e2d
+21066	21145	7556681373923560	juce-populate-prefix/src/juce-populate-stamp/juce-populate-patch	1fdcc7f968b90049
+21066	21145	7556681373923560	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-patch	1fdcc7f968b90049
+21145	21225	7556681374729351	juce-populate-prefix/src/juce-populate-stamp/juce-populate-configure	c124c732524b4620
+21145	21225	7556681374729351	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-configure	c124c732524b4620
+21225	21311	7556681375591282	juce-populate-prefix/src/juce-populate-stamp/juce-populate-build	f451d87ddfa590c3
+21225	21311	7556681375591282	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-build	f451d87ddfa590c3
+21312	21393	7556681376397835	juce-populate-prefix/src/juce-populate-stamp/juce-populate-install	ac8830fa0d1c0c5f
+21312	21393	7556681376397835	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-install	ac8830fa0d1c0c5f
+21393	21471	7556681377183741	juce-populate-prefix/src/juce-populate-stamp/juce-populate-test	44dd9f1262fda0be
+21393	21471	7556681377183741	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-test	44dd9f1262fda0be
+21471	21571	7556681378180176	CMakeFiles/juce-populate-complete	b518c5ff46cfafdf
+21471	21571	7556681378180176	juce-populate-prefix/src/juce-populate-stamp/juce-populate-done	b518c5ff46cfafdf
+21471	21571	7556681378180176	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/CMakeFiles/juce-populate-complete	b518c5ff46cfafdf
+21471	21571	7556681378180176	C:/Users/mbase/workspace/PluginDev/workspace/PluginTemplate/cmake-build-debug/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-done	b518c5ff46cfafdf
