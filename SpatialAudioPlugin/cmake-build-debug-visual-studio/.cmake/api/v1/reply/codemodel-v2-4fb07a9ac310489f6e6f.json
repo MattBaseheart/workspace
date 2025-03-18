@@ -1,0 +1,362 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "_deps/juce-build",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.juce-build-Debug-85e5efcdd68bd4f47489.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libs/juce"
+				},
+				{
+					"build" : "_deps/juce-build/modules",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.juce-build.modules-Debug-59cf5e83aecaed64deba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libs/juce/modules"
+				},
+				{
+					"build" : "_deps/juce-build/extras/Build",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.juce-build.extras.Build-Debug-782bcbe63552a0cf45a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "libs/juce/extras/Build"
+				},
+				{
+					"build" : "_deps/juce-build/extras/Build/juceaide",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.juce-build.extras.Build.juceaide-Debug-c538a764a62617f1ecee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 1,
+					"source" : "libs/juce/extras/Build/juceaide"
+				},
+				{
+					"build" : "_deps/googletest-build",
+					"childIndexes" : 
+					[
+						6
+					],
+					"jsonFile" : "directory-_deps.googletest-build-Debug-cbc2c27af0b15871770b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "libs/googletest"
+				},
+				{
+					"build" : "_deps/googletest-build/googlemock",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-_deps.googletest-build.googlemock-Debug-64cd47ae17fca403789e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 3,
+					"source" : "libs/googletest/googlemock",
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"build" : "_deps/googletest-build/googletest",
+					"jsonFile" : "directory-_deps.googletest-build.googletest-Debug-70619f0fe5496e7d8311.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 4,
+					"source" : "libs/googletest/googletest",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				},
+				{
+					"build" : "plugin",
+					"jsonFile" : "directory-plugin-Debug-348d64a44b6dc2253db4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "plugin",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						10
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Debug-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WolfSoundAudioPluginTemplate"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "JUCE",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						4
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "gmock",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						6,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "gtest",
+					"parentIndex" : 3,
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "AudioPlugin",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "AudioPluginTest",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 8,
+					"id" : "AudioPlugin::@26efe8164589a77d2096",
+					"jsonFile" : "target-AudioPlugin-Debug-661d5114bbb509382a63.json",
+					"name" : "AudioPlugin",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "AudioPluginTest::@36f028580bb02cc8272a",
+					"jsonFile" : "target-AudioPluginTest-Debug-87ffe8b93e46f2ad1e2b.json",
+					"name" : "AudioPluginTest",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "AudioPlugin_All::@26efe8164589a77d2096",
+					"jsonFile" : "target-AudioPlugin_All-Debug-e87631f144ac604235ed.json",
+					"name" : "AudioPlugin_All",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "AudioPlugin_Standalone::@26efe8164589a77d2096",
+					"jsonFile" : "target-AudioPlugin_Standalone-Debug-144745f78fda598a489b.json",
+					"name" : "AudioPlugin_Standalone",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "AudioPlugin_VST3::@26efe8164589a77d2096",
+					"jsonFile" : "target-AudioPlugin_VST3-Debug-1fc7dc87f44651709daa.json",
+					"name" : "AudioPlugin_VST3",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "AudioPlugin_rc_lib::@26efe8164589a77d2096",
+					"jsonFile" : "target-AudioPlugin_rc_lib-Debug-e0753dc618732cdf22f5.json",
+					"name" : "AudioPlugin_rc_lib",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "gmock::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock-Debug-9d18d73ec06ace60a5c5.json",
+					"name" : "gmock",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "gmock_main::@0f7bb11d64f3678238c7",
+					"jsonFile" : "target-gmock_main-Debug-73d3959b0abd0da7703b.json",
+					"name" : "gmock_main",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest-Debug-3d86292b7fae86185320.json",
+					"name" : "gtest",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
+					"jsonFile" : "target-gtest_main-Debug-4cae3e111c378106fe77.json",
+					"name" : "gtest_main",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "juce_vst3_helper::@26efe8164589a77d2096",
+					"jsonFile" : "target-juce_vst3_helper-Debug-a2c569bee36311600ee2.json",
+					"name" : "juce_vst3_helper",
+					"projectIndex" : 5
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio",
+		"source" : "C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

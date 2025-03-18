@@ -1,0 +1,21 @@
+# ninja log v6
+2	94	7556696647612695	juce-populate-prefix/src/juce-populate-stamp/juce-populate-mkdir	e4d73815daaf7c01
+2	94	7556696647612695	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-mkdir	e4d73815daaf7c01
+94	21851	7556696865187659	juce-populate-prefix/src/juce-populate-stamp/juce-populate-download	6c93e0549830703
+94	21851	7556696865187659	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-download	6c93e0549830703
+21851	22072	7556696865257788	juce-populate-prefix/src/juce-populate-stamp/juce-populate-update	b651b23ccdd02854
+21851	22072	7556696865257788	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-update	b651b23ccdd02854
+22072	22152	7556696868192943	juce-populate-prefix/src/juce-populate-stamp/juce-populate-patch	83d1043c0b75a35f
+22072	22152	7556696868192943	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-patch	83d1043c0b75a35f
+22152	22238	7556696869061037	juce-populate-prefix/src/juce-populate-stamp/juce-populate-configure	4e04b4d1fe06a930
+22152	22238	7556696869061037	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-configure	4e04b4d1fe06a930
+22238	22325	7556696869928010	juce-populate-prefix/src/juce-populate-stamp/juce-populate-build	590e9270fcec2b54
+22238	22325	7556696869928010	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-build	590e9270fcec2b54
+22325	22409	7556696870774077	juce-populate-prefix/src/juce-populate-stamp/juce-populate-install	4444607d990d34ac
+22325	22409	7556696870774077	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-install	4444607d990d34ac
+22409	22498	7556696871645959	juce-populate-prefix/src/juce-populate-stamp/juce-populate-test	7ba5e69701ae99ab
+22409	22498	7556696871645959	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-test	7ba5e69701ae99ab
+22498	22609	7556696872768173	CMakeFiles/juce-populate-complete	8308b72bbaba06f6
+22498	22609	7556696872768173	juce-populate-prefix/src/juce-populate-stamp/juce-populate-done	8308b72bbaba06f6
+22498	22609	7556696872768173	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/CMakeFiles/juce-populate-complete	8308b72bbaba06f6
+22498	22609	7556696872768173	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-done	8308b72bbaba06f6

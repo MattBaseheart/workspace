@@ -1,0 +1,3 @@
+C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/CMakeFiles/juce-populate.dir
+C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# ninja log v6
+31	311	7556696912116166	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/juce-build/tools/CMakeFiles/cmake.verify_globs	c77f52ed2e90b05e
+399	517	7556696915796931	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core_CompilationTime.cpp.obj	e11cefd08a7a507f
+367	554	7556696915471591	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Sheenbidi.c.obj	902090cd51848ef6
+409	2119	7556696915897191	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.cpp.obj	2162be757a5cc4a8
+377	2718	7556696915571683	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.cpp.obj	f6722824c542faa9
+324	3134	7556696915041109	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.obj	5df479e6fae6033e
+313	3182	7556696914930980	extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.obj	1496483d59706e1d
+386	5350	7556696915666794	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.cpp.obj	64da38c0fb6a00ea
+349	7602	7556696915291334	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.cpp.obj	2b743bda1299027d
+358	9339	7556696915381471	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics_Harfbuzz.cpp.obj	f61520ae2a1ee4ec
+336	11362	7556696915166190	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.cpp.obj	7f23973def295f20
+11364	13187	7556697025443371	extras/Build/juceaide/juceaide_artefacts/Debug/juceaide.exe	3ae0529dab72afbc

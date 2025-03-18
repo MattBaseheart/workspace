@@ -1,0 +1,21 @@
+# ninja log v6
+3	89	7556697076399848	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	218c664192a81d60
+3	89	7556697076399848	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	218c664192a81d60
+89	2869	7556697104200574	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d1634f968234cb2d
+89	2869	7556697104200574	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d1634f968234cb2d
+2869	3086	7556697104265664	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	999cb8902cef5618
+2869	3086	7556697104265664	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	999cb8902cef5618
+3086	3165	7556697107157058	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	86d0abef2f9117ef
+3086	3165	7556697107157058	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	86d0abef2f9117ef
+3165	3243	7556697107942751	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	32beb745a9871d09
+3165	3243	7556697107942751	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	32beb745a9871d09
+3243	3327	7556697108775415	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	6b34686f43119898
+3243	3327	7556697108775415	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	6b34686f43119898
+3327	3409	7556697109592908	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1e773afd2d93093b
+3327	3409	7556697109592908	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1e773afd2d93093b
+3409	3490	7556697110418838	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1679c3c1da5a82a2
+3409	3490	7556697110418838	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	1679c3c1da5a82a2
+3490	3601	7556697111521208	CMakeFiles/googletest-populate-complete	152d47300f5b7a0a
+3490	3601	7556697111521208	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	152d47300f5b7a0a
+3490	3601	7556697111521208	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	152d47300f5b7a0a
+3490	3601	7556697111521208	C:/Users/mbase/workspace/PluginDev/workspace/SpatialAudioPlugin/cmake-build-debug-visual-studio/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	152d47300f5b7a0a
