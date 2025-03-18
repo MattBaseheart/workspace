@@ -4,6 +4,8 @@
               useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
   <MAINGROUP id="MTc3lD" name="SimpleDelayPlugin">
     <GROUP id="{72780EA7-EF06-0CC4-634C-D438A7B5914E}" name="Source">
+      <FILE id="IvJ6Hh" name="RotaryKnob.cpp" compile="1" resource="0" file="Source/RotaryKnob.cpp"/>
+      <FILE id="THBavi" name="RotaryKnob.h" compile="0" resource="0" file="Source/RotaryKnob.h"/>
       <FILE id="clVYfW" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters.cpp"/>
       <FILE id="NLxirE" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
       <FILE id="Fnyn3m" name="PluginProcessor.cpp" compile="1" resource="0"

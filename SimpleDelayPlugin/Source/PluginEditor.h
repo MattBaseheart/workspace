@@ -11,6 +11,7 @@
 #include <JuceHeader.h>
 #include "PluginProcessor.h"
 #include "Parameters.h"
+#include "RotaryKnob.h"
 
 //==============================================================================
 /**
@@ -31,10 +32,9 @@ private:
     SimpleDelayPluginAudioProcessor& audioProcessor;
     juce::Value valueToControl;
     
-    juce::Slider slider;
-    juce::Label label;
-
-    juce::AudioProcessorValueTreeState::SliderAttachment attachment { audioProcessor.apvts, gainParamID.getParamID(), slider };
+    RotaryKnob gainKnob{ "Gain", audioProcessor.apvts, gainParamID };
+    RotaryKnob mixKnob{ "Mix", audioProcessor.apvts, mixParamID };
+    RotaryKnob delayTimeKnob{ "Delay Time", audioProcessor.apvts, delayTimeParamID };
 
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (SimpleDelayPluginAudioProcessorEditor)
 };
